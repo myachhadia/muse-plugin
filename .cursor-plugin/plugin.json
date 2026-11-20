@@ -1,0 +1,14 @@
+{
+  "name": "muse",
+  "displayName": "Muse",
+  "version": "0.1.0",
+  "description": "Skills for a personal clothing storefront: taste, saves, dismissals, and closet notes. Purchases stay on retailer sites.",
+  "author": {
+    "name": "Mya Chhadia",
+    "url": "https://github.com/myachhadia"
+  },
+  "license": "MIT",
+  "keywords": ["clothing", "storefront", "closet", "skills", "agents", "mcp"],
+  "homepage": "https://github.com/myachhadia/muse-plugin",
+  "repository": "https://github.com/myachhadia/muse-plugin"
+}
