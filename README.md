@@ -2,7 +2,7 @@
 
 Personal clothing storefront skills for taste, saves, dismissals, and closet notes. Purchases stay on retailer sites.
 
-This directory is the whole plugin. Published, these files sit at the repository root of [myachhadia/muse-plugin](https://github.com/myachhadia/muse-plugin), not inside a `plugin/` folder. The private Muse repo keeps the rack, catalog, photos, and server.
+This directory is the whole plugin. Published, these files sit at the repository root of [myachhadia/muse-plugin](https://github.com/myachhadia/muse-plugin), not inside a `plugin/` folder. The private Muse repo keeps the rack, catalog files, reference photos, and server.
 
 ## MCP server
 

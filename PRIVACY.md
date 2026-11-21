@@ -12,8 +12,8 @@ When a client calls the Muse MCP server, the signed-in person can store:
 
 - a short taste summary they wrote
 - brand names and style names they added
-- items they added, each with a page URL and title, and a price or image URL only when they supplied one
-- a save, or a dismissal with their reason
+- items they added, each with a page URL and title, and a price, image URL, or brand name only when supplied. A recommendation also keeps its category, why it was picked, its source, and an optional expiry
+- a save, or a dismissal with their reason, plus a note or reason chips when they sent them
 - a purchase approval note
 - closet items they added, with a title and an optional page URL or note
 
